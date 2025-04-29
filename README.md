@@ -16,7 +16,6 @@ This is a Spring Boot project built with Gradle as the dependency manager.
 - The application will be accessible at http://localhost:9001.
 
 ## API Endpoints
-
 This API has been tested using Postman.
 
 - GET /HelloWorld: Returns a greeting with an optional "name" parameter (default is "UNKNOWN").
